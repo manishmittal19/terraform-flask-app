@@ -1,0 +1,6 @@
+ami_id = "ami-0f673487d7e5f89ca"
+instance_type = "t2.micro"
+subnet_az = "eu-central-1a"
+vpc_cidr = "10.0.0.0/16"
+sg-name = "flask-sg"
+key_name = "mykey"
